@@ -19,7 +19,7 @@
     "unfetch": "^4.1.0"
   },
   "devDependencies": {
-    "typescript": "3.3.3"
+    "typescript": "3.8.3"
   },
   "scripts": {
     "start": "react-scripts start -p 8000",
